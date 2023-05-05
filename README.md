@@ -56,8 +56,9 @@
 ### Key Features <a name="key-features"></a>
 
 - **a collection that keeps a list of books**
-- **Button interactions (i.e. hover, etc.)**
 - **data is preserved in the browser's memory by using localStorage**
+- **Add data to the localstorage and succesful removes from loacalstorage**
+- **use DOM for navigation links to show specfic section with out loading to new page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +170,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **website with navigation**
+- [ ] **baked databaase**
 - [ ] **Adaptative colors**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
